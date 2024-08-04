@@ -17,6 +17,26 @@ const questions = [
             { text: "Tony Stark", correct: false }
         ]
     },
+
+ {
+        question: "What is the capital of France?",
+        answers: [
+            { text: "Berlin", correct: false },
+            { text: "Madrid", correct: false },
+            { text: "Paris", correct: true },
+            { text: "Lisbon", correct: false }
+        ]
+    },
+    {
+        question: "Who is the prime minister of india?",
+        answers: [
+            { text: "Jeff Bezos", correct: false },
+            { text: "narendra modi", correct: true },
+            { text: "Bill Gates", correct: false },
+            { text: "Tony Stark", correct: false }
+        ]
+    },
+
     // Add more questions here
 ];
 
